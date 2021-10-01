@@ -1,0 +1,3 @@
+[submodule "mushroom"]
+	path = mushroom
+	url = https://github.com/MushroomRL/mushroom-rl.git
